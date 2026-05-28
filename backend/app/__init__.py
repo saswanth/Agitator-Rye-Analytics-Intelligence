@@ -1,0 +1,1 @@
+"""Agitator Rye Backend Application."""
